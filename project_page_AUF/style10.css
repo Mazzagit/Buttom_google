@@ -1,0 +1,52 @@
+.p{
+    position: relative;
+    left: 0;
+    width: 50%;
+    background-color: red;
+    margin-top: 10px;
+}
+.container{
+    height: 100vh;
+    display: flex;
+    align-items: flex-start;
+}
+.containerd{
+position: relative;
+height: 200px;
+color: red;
+}
+.H1{
+position: absolute;
+bottom: 0;
+}
+.a{
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 100px;
+    width: 50px;
+}
+.bar{
+    width: 1px;
+    height: 150px;
+    background-color: black;
+    margin-left: -250px;
+}
+.frie{
+    margin-left: 50px;
+    width: 300px;
+    height: auto;
+
+}
+.freedom{
+    margin-left: 25px;
+    width: 300px;
+    height: auto;
+}
+.head{
+    margin-top: 0;
+}
+.vie{
+    position: relative;
+    color: red;
+}
